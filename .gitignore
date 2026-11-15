@@ -1,0 +1,6 @@
+out/
+out2/
+*.tar.gz
+makefun-keypair.json
+wallet.json
+.env
